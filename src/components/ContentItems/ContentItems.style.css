@@ -1,0 +1,9 @@
+.content-items {
+  margin: 15px 0;
+}
+.content-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 17px;
+}

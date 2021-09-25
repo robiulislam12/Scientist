@@ -1,0 +1,30 @@
+.footer {
+  background-color: #fff;
+  padding: 30px 0;
+  margin-top: 50px;
+}
+.footer-area {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo p {
+  font-size: 16px;
+}
+.social-icons {
+  margin-top: 20px;
+}
+.social-icons a {
+  color: #0e5488;
+  margin-right: 10px;
+}
+
+.quick-list ul li a {
+  font-size: 18px;
+  color: #122033;
+  margin-left: 10px;
+}
+.logo .social-icons a {
+  color: #042022;
+  margin-right: 20px;
+}
