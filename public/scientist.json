@@ -1,0 +1,134 @@
+[
+  {
+    "name": "Albert Einstein",
+    "dob": "14 March 1879",
+    "invention": "General Relativity, E=mc2",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Albert_Einstein_Head.jpg/450px-Albert_Einstein_Head.jpg",
+    "age": 76,
+    "fields": "Physics",
+    "salary": "$1879",
+    "education": "Federal polytechnic school in Zurich",
+    "award": "Nobel Prize in Physics(1921)"
+  },
+  {
+    "name": "Sir Isaac Newton",
+    "dob": "4 January 1643",
+    "invention": "Universal Gravitation",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/50/Sir_Isaac_Newton_by_Sir_Godfrey_Kneller%2C_Bt.jpg",
+    "age": 84,
+    "fields": "Physics",
+    "salary": "$1643",
+    "education": "Trinity College, Cambridge",
+    "award": "Knight Bachelor"
+  },
+  {
+    "name": "Marie Curie",
+    "dob": "7 November 1867",
+    "invention": "Radioactivity.",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Marie_Curie_c._1920s.jpg",
+    "age": 65,
+    "fields": "Physics, chemistry",
+    "salary": "$1867",
+    "education": "University of Paris",
+    "award": "Nobel Prize in Physics "
+  },
+  {
+    "name": "Stephen Hawking",
+    "dob": "8 January 1942",
+    "invention": "Properties of Expanding Universes",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Stephen_Hawking.StarChild.jpg",
+    "age": 76,
+    "fields": "Physics, chemistry",
+    "salary": "$1342",
+    "education": "St Albans School, Hertfordshire",
+    "award": "Adams Prize "
+  },
+  {
+    "name": "Nikola Tesla",
+    "dob": "10 July 1856",
+    "invention": "Alternating current",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/79/Tesla_circa_1890.jpeg",
+    "age": 86,
+    "fields": "Electrical",
+    "salary": "$1856",
+    "education": "Graz University of Technology",
+    "award": "Elliott Cresson Medal"
+  },
+  {
+    "name": "Jagadish Chandra Bose",
+    "dob": "30 November 1858",
+    "invention": "Crescograph, ",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/56/J.C.Bose.JPG",
+    "age": 78,
+    "fields": "Biophysics",
+    "salary": "$1856",
+    "education": "St. Xavier's College Calcutta",
+    "award": "Companion of The Order of the Indian Empire"
+  },
+  {
+    "name": "Gregor Mendel",
+    "dob": "20 July 1822",
+    "invention": "Genetics",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Gregor_Mendel_2.jpg",
+    "age": 61,
+    "fields": "Genetics",
+    "salary": "$1822",
+    "education": "University of Olomouc",
+    "award": "Companion of The Order of the Indian Empire"
+  },
+  {
+    "name": "Aristotle",
+    "dob": "\t384 BC",
+    "invention": "Aristotelian philosophy",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Aristotle_Altemps_Inv8575.jpg",
+    "age": 61,
+    "fields": "Aristotelian philosophy",
+    "salary": "$384",
+    "education": "Platonic Academy",
+    "award": "Gladstone's Library, Hawarden,"
+  },
+  {
+    "name": "William Thomson",
+    "dob": "26 June 1824",
+    "invention": "Aristotelian philosophy",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Lord_Kelvin_photograph.jpg",
+    "age": 83,
+    "fields": "Atmospheric Electric",
+    "salary": "$1824",
+    "education": "Royal Belfast Academical Institution",
+    "award": "John Fritz Medal"
+  },
+  {
+    "name": "Galileo Galilei",
+    "dob": "15 February 1564",
+    "invention": "Analytical dynamics,",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg",
+    "age": 77,
+    "fields": "Astronomy",
+    "salary": "$1564",
+    "education": "University of Pisa",
+    "award": "John Fritz Medal"
+  },
+  {
+    "name": "Thomas Edison",
+    "dob": "February 11, 1847",
+    "invention": "Electric power",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Thomas_Edison2.jpg",
+    "age": 84,
+    "fields": "Electric power",
+    "salary": "$1847",
+    "education": "Self-educated",
+    "award": "John Fritz Medal"
+  },
+  {
+    "name": "Charles Babbage",
+    "dob": "26 December 1791",
+    "invention": "Electric power generation",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Charles_Babbage_-_1860.jpg",
+    "age": 79,
+    "fields": "Computer Science",
+    "salary": "$1791",
+    "education": "Peterhouse, Cambridge",
+    "award": "John Fritz Medal"
+  }
+]

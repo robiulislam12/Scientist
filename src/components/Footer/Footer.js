@@ -9,10 +9,10 @@ export default function Footer() {
               <a href="/"> Scien<span>tist</span> </a>
               <p>We are find all the world famous Scientist List</p>
               <div className="social-icons">
-                <a href="/facebook"><i class="fab fa-facebook"></i></a>
-                <a href="/twitter"><i class="fab fa-twitter"></i></a>
-                <a href="/linkedin"><i class="fab fa-linkedin"></i></a>
-                <a href="/instagram"><i class="fab fa-instagram"></i></a>
+                <a href="/facebook"><i className="fab fa-facebook"></i></a>
+                <a href="/twitter"><i className="fab fa-twitter"></i></a>
+                <a href="/linkedin"><i className="fab fa-linkedin"></i></a>
+                <a href="/instagram"><i className="fab fa-instagram"></i></a>
               </div>
             </div>
             <div className="quick-list">

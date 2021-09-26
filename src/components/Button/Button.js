@@ -1,9 +1,9 @@
 import './Button.style.css';
 
-export default function Button({classname, text, iconClass}) {
+export default function Button({classList, text, iconClass, handleClick}) {
     return (
-        <button type='button' className={`btn ${classname}`}>
-            <i class={iconClass}></i>
+        <button onClick={handleClick} type='button' className={`btn ${classList}`}>
+            <i className={iconClass}></i>
             {text}
         </button>
     )

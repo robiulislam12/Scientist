@@ -17,7 +17,7 @@ export default function HeroArea() {
           </p>
           <h3>Our Total Bugedts <span>$100</span> Billon</h3>
 
-         <Button classname='btn-green' text='learn-more' iconClass='fab fa-slack-hash'>
+         <Button classList='btn-green' text='learn-more' iconClass='fab fa-slack-hash'>
          </Button>
          
         </div>
