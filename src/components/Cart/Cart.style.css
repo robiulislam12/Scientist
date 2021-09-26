@@ -20,7 +20,9 @@
   margin-top: 15px;
   border-radius: 10px;
 }
-.added-name ol {
-  padding: 30px 20px;
-  margin-left: 40px;
+.added-name {
+  padding: 20px;
+}
+.added-name p {
+  font-size: 16px;
 }

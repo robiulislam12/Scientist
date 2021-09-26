@@ -1,39 +1,15 @@
-import { useState } from 'react';
 import Button from '../Button/Button';
 import './Cart.style.css';
 
+export default function Cart({cart}) {
 
-let handleCart;
-
-export default function Cart() {
-  const [salary2, setSalary] = useState(0);
-  const [name2, setName] = useState('Add to Scientist');
-  const [count2, setCount] = useState(0)
-  
-  handleCart = (name, salary, count) =>{
-
-    setName(name);
-    
-    if(name2 === name){
-
-      alert('Every Scientist Select One Time')
-      
-    } else{
-      setSalary(salary)
-      if(salary2){
-          const newSalary = salary2 + salary;
-          setSalary(newSalary)
-      }
-      
-      setCount(count)
-      if(count2){
-        const newCount = count2 + count;
-        setCount(newCount)
-      }
-    }
-
+  let total = 0;
+  for(const scientist of cart){
+    const salary = parseInt(scientist.salary)
+    total = total + salary;
   }
-    return (
+
+  return (
       <div className="cart-area">
         <div className="cart">
           <h3>Total Scientist</h3>
@@ -41,11 +17,11 @@ export default function Cart() {
               <ul>
                 <div className="content-item">
                     <li>Total Scientist :</li>
-                    <li>{count2}</li>
+                    <li>{cart.length}</li>
                 </div>
                 <div className="content-item">
                     <li>Total Cost :</li>
-                    <li>${salary2}</li>
+                    <li>${total} K</li>
                 </div>
               </ul>
           </div>
@@ -56,14 +32,11 @@ export default function Cart() {
           </Button>
         </div>
         <div className="added-name">
-        <ol>
-          <li>{name2}</li>
-          
-        </ol>
-    </div>
+          {
+            cart.map(scientistName => <p>{scientistName.name}</p>)
+          }
+        </div>
       </div>
     )
 }
-
-export { handleCart };
 

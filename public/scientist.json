@@ -6,7 +6,7 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Albert_Einstein_Head.jpg/450px-Albert_Einstein_Head.jpg",
     "age": 76,
     "fields": "Physics",
-    "salary": "$1879",
+    "salary": "1879",
     "education": "Federal polytechnic school in Zurich",
     "award": "Nobel Prize in Physics(1921)"
   },
@@ -17,7 +17,7 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/5/50/Sir_Isaac_Newton_by_Sir_Godfrey_Kneller%2C_Bt.jpg",
     "age": 84,
     "fields": "Physics",
-    "salary": "$1643",
+    "salary": "1643",
     "education": "Trinity College, Cambridge",
     "award": "Knight Bachelor"
   },
@@ -28,7 +28,7 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Marie_Curie_c._1920s.jpg",
     "age": 65,
     "fields": "Physics, chemistry",
-    "salary": "$1867",
+    "salary": "1867",
     "education": "University of Paris",
     "award": "Nobel Prize in Physics "
   },
@@ -39,7 +39,7 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Stephen_Hawking.StarChild.jpg",
     "age": 76,
     "fields": "Physics, chemistry",
-    "salary": "$1342",
+    "salary": "1342",
     "education": "St Albans School, Hertfordshire",
     "award": "Adams Prize "
   },
@@ -50,7 +50,7 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/7/79/Tesla_circa_1890.jpeg",
     "age": 86,
     "fields": "Electrical",
-    "salary": "$1856",
+    "salary": "1856",
     "education": "Graz University of Technology",
     "award": "Elliott Cresson Medal"
   },
@@ -61,7 +61,7 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/5/56/J.C.Bose.JPG",
     "age": 78,
     "fields": "Biophysics",
-    "salary": "$1856",
+    "salary": "1856",
     "education": "St. Xavier's College Calcutta",
     "award": "Companion of The Order of the Indian Empire"
   },
@@ -72,7 +72,7 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Gregor_Mendel_2.jpg",
     "age": 61,
     "fields": "Genetics",
-    "salary": "$1822",
+    "salary": "1822",
     "education": "University of Olomouc",
     "award": "Companion of The Order of the Indian Empire"
   },
@@ -83,7 +83,7 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Aristotle_Altemps_Inv8575.jpg",
     "age": 61,
     "fields": "Aristotelian philosophy",
-    "salary": "$384",
+    "salary": "384",
     "education": "Platonic Academy",
     "award": "Gladstone's Library, Hawarden,"
   },
@@ -94,7 +94,7 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Lord_Kelvin_photograph.jpg",
     "age": 83,
     "fields": "Atmospheric Electric",
-    "salary": "$1824",
+    "salary": "1824",
     "education": "Royal Belfast Academical Institution",
     "award": "John Fritz Medal"
   },
@@ -105,7 +105,7 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg",
     "age": 77,
     "fields": "Astronomy",
-    "salary": "$1564",
+    "salary": "1564",
     "education": "University of Pisa",
     "award": "John Fritz Medal"
   },
@@ -116,7 +116,7 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Thomas_Edison2.jpg",
     "age": 84,
     "fields": "Electric power",
-    "salary": "$1847",
+    "salary": "1847",
     "education": "Self-educated",
     "award": "John Fritz Medal"
   },
@@ -127,7 +127,7 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Charles_Babbage_-_1860.jpg",
     "age": 79,
     "fields": "Computer Science",
-    "salary": "$1791",
+    "salary": "1791",
     "education": "Peterhouse, Cambridge",
     "award": "John Fritz Medal"
   }

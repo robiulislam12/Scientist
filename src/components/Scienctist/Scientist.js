@@ -1,19 +1,13 @@
 import Button from '../Button/Button';
-import { handleCart } from '../Cart/Cart';
 import './Scientist.style.css';
 
-export default function Scientist({scientist}) {
+export default function Scientist({scientist, handleCart}) {
+    
     const {name, img, dob, fields, salary, age} =scientist;
-
-    const handleClick = ()=>{
-        let salaryNumber = parseFloat(salary.replace(/[^\d.]/g, ''));
-        let count = 1;
-        handleCart(name, salaryNumber, count)
-    }
     
     return (
         <div className="scientist">
-            <img src={img} alt="newton" />
+            <img src={img} alt={name} />
             <div className="content-items">
                 <ul>
                     <div className="content-item">
@@ -39,7 +33,7 @@ export default function Scientist({scientist}) {
                 </ul>
             </div>
             
-            <Button handleClick={handleClick} classList='btn-dark' text='Add to List' iconClass='fas fa-shopping-cart'/>
+            <Button handleClick={()=> handleCart(scientist)} classList='btn-dark' text='Add to List' iconClass='fas fa-shopping-cart'/>
       </div>
     )
 }
